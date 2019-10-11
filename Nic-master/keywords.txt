@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map for NewSoftSerial
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Nic	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+scanEeprom 	KEYWORD2
+playMyLCD			KEYWORD2
+createTagLibrary	KEYWORD2
+showIRQStatus		KEYWORD2
+	appLibrary		KEYWORD2
+	creatNewLibrary KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
